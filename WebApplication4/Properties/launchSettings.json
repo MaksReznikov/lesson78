@@ -18,6 +18,15 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "Jenkins":{
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "https://104.248.202.116:7100;http://104.248.202.116:7000",
+      "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+      }
     }
   }
 }
